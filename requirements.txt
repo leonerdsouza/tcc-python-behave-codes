@@ -1,0 +1,6 @@
+behave
+selenium
+allure_behave
+pymysql
+requests
+xmltodict

@@ -1,0 +1,5 @@
+{
+    "browser": "chrome",
+    "portal_url": "https://www.saucedemo.com/",
+    "portal_env": "dev"
+}
